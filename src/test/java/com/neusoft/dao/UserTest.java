@@ -53,5 +53,6 @@ public class UserTest {
 
         // 释放资源
         sqlSession.close();
+        //hyjs
     }
 }
